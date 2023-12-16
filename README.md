@@ -19,6 +19,6 @@
 이 논문은 이미지 inpainting을 통한 자기 지도 학습의 아이디어를 소개하고, 이를 통해 특징 학습에 성공적으로 활용하는 방법을 탐구하고 있습니다.
 
 # 참고자료
-Context Encoders: Feature Learning by Inpainting 논문
+Context Encoders: Feature Learning by Inpainting 논문: <https://arxiv.org/pdf/1604.07379.pdf>
 
-<https://github.com/HyungjoByun/Projects>
+Context Encoders: Feature Learning by Inpainting 구현 코드: <https://github.com/HyungjoByun/Projects>
